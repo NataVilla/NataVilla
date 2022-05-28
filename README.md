@@ -1,6 +1,6 @@
 # Hi there 👋, My name is Natalia Villa
 
-<img width="100%" src="https://github-profile-page-creator.netlify.app/![Header](./github-header-image.png)" alt="my banner">
+<img width="100%" src="https://github-profile-page-creator.netlify.app/![Header](./your-header-image-name.png)" alt="my banner">
 
 Analista de datos con gran interes en inteligencia artificial.
 las tecnologías que uso son: Python, pandas y numpy para extracción y procesamiento de datos, librerías como matplotlib y seaborn para las graficas, también uso deepnote y data studio.
