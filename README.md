@@ -1,14 +1,12 @@
-# Hi there 👋, My name is Natalia Villa
+<img width="100%" src="https://github-profile-page-creator.netlify.app/![Header](./your-header-image-name.png)" alt="my banner">
 
-Analista de datos con gran interes en inteligencia artificial.
-las tecnologías que uso son: Python, pandas y numpy para extracción y procesamiento de datos, librerías como matplotlib y seaborn para las graficas, también uso deepnote y data studio.
-Tambien tengo conocimiento en Mysql y postgresql
+
 
 ## 💫 Liitle Bit More About Me
-<p>🔭 I'm currently working on Platzi Master</p>
-<p>🌱 I'm currently learning Power BI, Tableau</p>
-<p>📫 How to reach me? nataye7@gmail.com</p>
-<p>I regularly write articles on <a href="https://github.com/NataVilla">NataVilla</a></p>
+<p>🔭 I'm currently working on </p>
+<p>🌱 I'm currently learning </p>
+<p>📫 How to reach me? </p>
+<p>I regularly write articles on <a href="https://github.com/NataVilla"></a></p>
 
 ## 💻 Skills
 <p>
