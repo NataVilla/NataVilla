@@ -10,7 +10,7 @@ Tambien tengo conocimiento en Mysql y postgresql
 <p>🔭 I'm currently working on Platzi Master</p>
 <p>🌱 I'm currently learning Power BI, Tableau</p>
 <p>📫 How to reach me? nataye7@gmail.com</p>
-<p>I regularly write articles on <a href="https://github.com/NataVilla">NataVilla</a></p>
+<p>🤖 All of my projects are available at <a href="https://github.com/NataVilla">NataVilla</a></p>
 
 ## 💻 Skills
 <p>
