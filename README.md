@@ -24,15 +24,6 @@ Tambien tengo conocimiento en Mysql y postgresql
 <p>
 </p>
 
-## 🌟 Github Badges
-<p>
-<img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" height="24px">
-</p>
-
-## 🏆 GitHub Trophies
-
-<p><img src="https://github-profile-trophy.vercel.app/?username=NataVilla">
-</p>
 
 ## 📊 Github Status
 
